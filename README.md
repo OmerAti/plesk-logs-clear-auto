@@ -1,0 +1,1 @@
+# plesk-logs-clear-auto
