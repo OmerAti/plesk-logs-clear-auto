@@ -12,3 +12,8 @@ Bu komut dosyası, günlük dosyalarını silmek yerine `truncate` komutunu kull
 - ✅ Her 3 günde bir saat 03:00'da çalışır
 - ✅ Kurulum sırasında ilk temizleme işlemini gerçekleştirir
 - ✅ Yinelenen cron girişlerini önler
+
+git clone https://github.com/OmerAti/plesk-logs-clear-auto
+cd plesk-log-cleaner
+chmod +x install.sh clear_plesk_logs.sh
+./install.sh
